@@ -4,8 +4,6 @@ import './index.css';
 import App from './pages/App';
 import reportWebVitals from './reportWebVitals';
 import { BrowserRouter, Route, Routes } from "react-router";
-import Footer from './components/Footer';
-import Navbar from './components/Navbar';
 import LoginPage from './pages/LoginPage';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
