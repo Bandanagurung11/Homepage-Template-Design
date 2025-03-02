@@ -52,9 +52,9 @@ export default function SuscribeSection() {
             viewBox="0 0 24 24"
             fill="none"
             stroke="white"
-            stroke-width="2"
-            stroke-linecap="round"
-            stroke-linejoin="round"
+            strokeWidth="2"
+            strokeLinecap="round"
+            strokeLinejoin="round"
             //   class="lucide lucide-box h-8 w-8"
           >
             <path d="M21 8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16Z"></path>
@@ -83,8 +83,8 @@ export default function SuscribeSection() {
                 y1="100%"
                 y2="0%"
               >
-                <stop offset="0%" stop-color="#1faf38" />
-                <stop offset="100%" stop-color="#60d669" />
+                <stop offset="0%" stopColor="#1faf38" />
+                <stop offset="100%" stopColor="#60d669" />
               </linearGradient>
               <linearGradient
                 id="logosWhatsappIcon1"
@@ -93,8 +93,8 @@ export default function SuscribeSection() {
                 y1="100%"
                 y2="0%"
               >
-                <stop offset="0%" stop-color="#f9f9f9" />
-                <stop offset="100%" stop-color="#fff" />
+                <stop offset="0%" stopColor="#f9f9f9" />
+                <stop offset="100%" stopColor="#fff" />
               </linearGradient>
             </defs>
             <path
@@ -143,10 +143,10 @@ export default function SuscribeSection() {
                   gradientTransform="matrix(0 -253.715 235.975 0 68 275.717)"
                   gradientUnits="userSpaceOnUse"
                 >
-                  <stop stop-color="#fd5" />
-                  <stop offset=".1" stop-color="#fd5" />
-                  <stop offset=".5" stop-color="#ff543e" />
-                  <stop offset="1" stop-color="#c837ab" />
+                  <stop stopColor="#fd5" />
+                  <stop offset=".1" stopColor="#fd5" />
+                  <stop offset=".5" stopColor="#ff543e" />
+                  <stop offset="1" stopColor="#c837ab" />
                 </radialGradient>
                 <radialGradient
                   id="skillIconsInstagram1"
@@ -156,9 +156,9 @@ export default function SuscribeSection() {
                   gradientTransform="matrix(22.25952 111.2061 -458.39518 91.75449 -42.881 18.441)"
                   gradientUnits="userSpaceOnUse"
                 >
-                  <stop stop-color="#3771c8" />
-                  <stop offset=".128" stop-color="#3771c8" />
-                  <stop offset="1" stop-color="#60f" stop-opacity="0" />
+                  <stop stopColor="#3771c8" />
+                  <stop offset=".128" stopColor="#3771c8" />
+                  <stop offset="1" stopColor="#60f" stop-opacity="0" />
                 </radialGradient>
               </defs>
             </g>

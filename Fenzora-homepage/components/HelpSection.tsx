@@ -117,9 +117,9 @@ export default function HelpSection() {
       <div className="grid lg:grid-cols-2 gap-20 p-4">
         <div className="space-y-6">
           <p className="text-lg">
-            We&apos;re here to help and answer any question you might have. We look
-            forward to hearing from you! Please fill out the form, or use the
-            contact information below.
+            We&apos;re here to help and answer any question you might have. We
+            look forward to hearing from you! Please fill out the form, or use
+            the contact information below.
           </p>
           <div className="flex gap-12 lg:gap-20 items-center">
             <div className="flex gap-2 items-center">
@@ -161,9 +161,9 @@ export default function HelpSection() {
               <path
                 fill="none"
                 stroke="currentColor"
-                stroke-linecap="round"
-                stroke-linejoin="round"
-                stroke-width="32"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                strokeWidth="32"
                 d="M256 48c-79.5 0-144 61.39-144 137c0 87 96 224.87 131.25 272.49a15.77 15.77 0 0 0 25.5 0C304 409.89 400 272.07 400 185c0-75.61-64.5-137-144-137"
               />
               <circle
@@ -172,9 +172,9 @@ export default function HelpSection() {
                 r="48"
                 fill="none"
                 stroke="currentColor"
-                stroke-linecap="round"
-                stroke-linejoin="round"
-                stroke-width="32"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                strokeWidth="32"
               />
             </svg>
             <p className="text-lg">Kageshwori Manahara-9, Kathmandu, Nepal</p>
@@ -212,8 +212,10 @@ export default function HelpSection() {
               </form>
             </CardContent>
             <CardFooter className="flex justify-between">
-              
-              <Button variant="outline" className="bg-[#5070FF] hover:bg-[#5070FF]">
+              <Button
+                variant="outline"
+                className="bg-[#5070FF] hover:bg-[#5070FF]"
+              >
                 <div className=" text-white flex gap-2 items-center">
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
@@ -229,7 +231,6 @@ export default function HelpSection() {
                   <p className="font-bold">Send Message</p>
                 </div>
               </Button>
-              
 
               {/* <Button variant="outline">Cancel</Button> */}
               {/* <Button>Deploy</Button> */}
