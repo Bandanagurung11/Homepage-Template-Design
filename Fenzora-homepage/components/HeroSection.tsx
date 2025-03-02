@@ -2,7 +2,7 @@ import React from "react";
 
 export default function HeroSection() {
   return (
-    <div className=" pt-36 pb-16 space-y-12">
+    <div className="pt-24 lg:pt-36 pb-16 space-y-12">
       <p className=" text-lg lg:text-6xl text-center lg:w-8/12 mx-auto">
         Take your business online with personalized e-commerce solution
       </p>
