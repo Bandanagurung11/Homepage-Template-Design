@@ -151,7 +151,7 @@ export default function Faq() {
             </div>
           </AccordionTrigger>
           <AccordionContent className="text-base opacity-60">
-            YAbsolutely! We prioritize your requirements. Whether it's advanced
+            YAbsolutely! We prioritize your requirements. Whether it&apos;s advanced
             functionalities, unique design elements, or specific integrations,
             we tailor the solution to match your vision.
           </AccordionContent>

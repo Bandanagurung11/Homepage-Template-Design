@@ -117,7 +117,7 @@ export default function HelpSection() {
       <div className="grid lg:grid-cols-2 gap-20 p-4">
         <div className="space-y-6">
           <p className="text-lg">
-            We're here to help and answer any question you might have. We look
+            We&apos;re here to help and answer any question you might have. We look
             forward to hearing from you! Please fill out the form, or use the
             contact information below.
           </p>
