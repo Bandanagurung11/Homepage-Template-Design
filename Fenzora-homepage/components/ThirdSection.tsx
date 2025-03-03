@@ -229,24 +229,24 @@ export default function ThirdSection() {
               <g filter="url(#f2532idb)">
                 <path
                   stroke="#c2c2c6"
-                  stroke-linecap="round"
-                  stroke-width="2.75"
+                  strokeLinecap="round"
+                  strokeWidth="2.75"
                   d="M19.445 14.07V8.508c0-2.77 2.207-5.016 4.93-5.016s4.93 2.246 4.93 5.016v1.086"
                 />
               </g>
               <path
                 stroke="url(#f2532id0)"
-                stroke-linecap="round"
-                stroke-width="2.75"
+                strokeLinecap="round"
+                strokeWidth="2.75"
                 d="M19.445 14.07V8.508c0-2.77 2.207-5.016 4.93-5.016s4.93 2.246 4.93 5.016v1.086"
               />
               <path
                 stroke="url(#f2532id1)"
-                stroke-linecap="round"
-                stroke-width="2.75"
+                strokeLinecap="round"
+                strokeWidth="2.75"
                 d="M19.445 14.07V8.508c0-2.77 2.207-5.016 4.93-5.016s4.93 2.246 4.93 5.016v1.086"
               />
-              <g stroke-linecap="round" filter="url(#f2532idc)">
+              <g strokeLinecap="round" filter="url(#f2532idc)">
                 <path
                   stroke="url(#f2532id2)"
                   d="M19.883 13.758V8.195c0-2.77 2.207-5.015 4.93-5.015s4.93 2.245 4.93 5.015v1.086"
@@ -290,7 +290,7 @@ export default function ThirdSection() {
                 fill="url(#f2532id5)"
                 rx="3"
               />
-              <g stroke-width="1.75" filter="url(#f2532ide)">
+              <g strokeWidth="1.75" filter="url(#f2532ide)">
                 <path
                   stroke="url(#f2532id9)"
                   d="M14.805 20.392a2.607 2.607 0 1 0-2.797.017v3.294a1.398 1.398 0 0 0 2.797 0z"
@@ -313,8 +313,8 @@ export default function ThirdSection() {
                   gradientTransform="matrix(-.15625 -5.414 5.80992 -.16767 24.531 8.156)"
                   gradientUnits="userSpaceOnUse"
                 >
-                  <stop offset=".556" stop-color="#ab83c0" />
-                  <stop offset="1" stop-color="#cbbbdc" stop-opacity="0" />
+                  <stop offset=".556" stopColor="#ab83c0" />
+                  <stop offset="1" stopColor="#cbbbdc" stopOpacity="0" />
                 </radialGradient>
                 <radialGradient
                   id="f2532id1"
@@ -324,8 +324,8 @@ export default function ThirdSection() {
                   gradientTransform="matrix(0 -2.21875 8.81238 0 29.305 11.406)"
                   gradientUnits="userSpaceOnUse"
                 >
-                  <stop offset=".111" stop-color="#b57fd6" />
-                  <stop offset="1" stop-color="#b57fd6" stop-opacity="0" />
+                  <stop offset=".111" stopColor="#b57fd6" />
+                  <stop offset="1" stopColor="#b57fd6" stopOpacity="0" />
                 </radialGradient>
                 <radialGradient
                   id="f2532id2"
@@ -335,8 +335,8 @@ export default function ThirdSection() {
                   gradientTransform="matrix(-3.67338 3.47071 -4.76862 -5.04709 30.036 4.538)"
                   gradientUnits="userSpaceOnUse"
                 >
-                  <stop offset=".216" stop-color="#edecf3" />
-                  <stop offset="1" stop-color="#edecf3" stop-opacity="0" />
+                  <stop offset=".216" stopColor="#edecf3" />
+                  <stop offset="1" stopColor="#edecf3" stopOpacity="0" />
                 </radialGradient>
                 <radialGradient
                   id="f2532id3"
@@ -346,8 +346,8 @@ export default function ThirdSection() {
                   gradientTransform="rotate(-80.102 19.36 -2.728)scale(9.45321 6.82288)"
                   gradientUnits="userSpaceOnUse"
                 >
-                  <stop stop-color="#edecf3" />
-                  <stop offset="1" stop-color="#edecf3" stop-opacity="0" />
+                  <stop stopColor="#edecf3" />
+                  <stop offset="1" stopColor="#edecf3" stopOpacity="0" />
                 </radialGradient>
                 <radialGradient
                   id="f2532id4"
@@ -357,8 +357,8 @@ export default function ThirdSection() {
                   gradientTransform="matrix(-2.18751 -2.40624 5.60574 -5.09619 23.813 29.898)"
                   gradientUnits="userSpaceOnUse"
                 >
-                  <stop stop-color="#ff8650" />
-                  <stop offset="1" stop-color="#ff8650" stop-opacity="0" />
+                  <stop stopColor="#ff8650" />
+                  <stop offset="1" stopColor="#ff8650" stopOpacity="0" />
                 </radialGradient>
                 <radialGradient
                   id="f2532id5"
@@ -368,8 +368,8 @@ export default function ThirdSection() {
                   gradientTransform="rotate(126.254 9.23 11.624)scale(2.32513 5.25171)"
                   gradientUnits="userSpaceOnUse"
                 >
-                  <stop stop-color="#fff760" />
-                  <stop offset="1" stop-color="#fff760" stop-opacity="0" />
+                  <stop stopColor="#fff760" />
+                  <stop offset="1" stopColor="#fff760" stopOpacity="0" />
                 </radialGradient>
                 <radialGradient
                   id="f2532id6"
@@ -379,8 +379,8 @@ export default function ThirdSection() {
                   gradientTransform="rotate(34.061 -24.997 26.914)scale(5.69121 7.82719)"
                   gradientUnits="userSpaceOnUse"
                 >
-                  <stop offset=".217" stop-color="#564f80" />
-                  <stop offset="1" stop-color="#473154" />
+                  <stop offset=".217" stopColor="#564f80" />
+                  <stop offset="1" stopColor="#473154" />
                 </radialGradient>
                 <linearGradient
                   id="f2532id7"
@@ -390,8 +390,8 @@ export default function ThirdSection() {
                   y2="29.898"
                   gradientUnits="userSpaceOnUse"
                 >
-                  <stop stop-color="#ffc74e" />
-                  <stop offset="1" stop-color="#f7864e" />
+                  <stop stopColor="#ffc74e" />
+                  <stop offset="1" stopColor="#f7864e" />
                 </linearGradient>
                 <linearGradient
                   id="f2532id8"
@@ -401,8 +401,8 @@ export default function ThirdSection() {
                   y2="12.242"
                   gradientUnits="userSpaceOnUse"
                 >
-                  <stop stop-color="#f3d04e" />
-                  <stop offset="1" stop-color="#f3d04e" stop-opacity="0" />
+                  <stop stopColor="#f3d04e" />
+                  <stop offset="1" stopColor="#f3d04e" stopOpacity="0" />
                 </linearGradient>
                 <linearGradient
                   id="f2532id9"
@@ -412,8 +412,8 @@ export default function ThirdSection() {
                   y2="21.68"
                   gradientUnits="userSpaceOnUse"
                 >
-                  <stop offset=".331" stop-color="#d98a40" />
-                  <stop offset="1" stop-color="#d98a40" stop-opacity="0" />
+                  <stop offset=".331" stopColor="#d98a40" />
+                  <stop offset="1" stopColor="#d98a40" stopOpacity="0" />
                 </linearGradient>
                 <linearGradient
                   id="f2532ida"
@@ -423,8 +423,8 @@ export default function ThirdSection() {
                   y2="20.742"
                   gradientUnits="userSpaceOnUse"
                 >
-                  <stop stop-color="#ffcd63" />
-                  <stop offset="1" stop-color="#ffcd63" stop-opacity="0" />
+                  <stop stopColor="#ffcd63" />
+                  <stop offset="1" stopColor="#ffcd63" stopOpacity="0" />
                 </linearGradient>
                 <filter
                   id="f2532idb"
@@ -432,10 +432,10 @@ export default function ThirdSection() {
                   height="13.328"
                   x="18.07"
                   y="2.117"
-                  color-interpolation-filters="sRGB"
+                  colorInterpolationFilters="sRGB"
                   filterUnits="userSpaceOnUse"
                 >
-                  <feFlood flood-opacity="0" result="BackgroundImageFix" />
+                  <feFlood floodOpacity="0" result="BackgroundImageFix" />
                   <feBlend
                     in="SourceGraphic"
                     in2="BackgroundImageFix"
@@ -463,10 +463,10 @@ export default function ThirdSection() {
                   height="13.078"
                   x="18.633"
                   y="1.93"
-                  color-interpolation-filters="sRGB"
+                  colorInterpolationFilters="sRGB"
                   filterUnits="userSpaceOnUse"
                 >
-                  <feFlood flood-opacity="0" result="BackgroundImageFix" />
+                  <feFlood floodOpacity="0" result="BackgroundImageFix" />
                   <feBlend
                     in="SourceGraphic"
                     in2="BackgroundImageFix"
@@ -483,10 +483,10 @@ export default function ThirdSection() {
                   height="20.344"
                   x="1.688"
                   y="10.305"
-                  color-interpolation-filters="sRGB"
+                  colorInterpolationFilters="sRGB"
                   filterUnits="userSpaceOnUse"
                 >
-                  <feFlood flood-opacity="0" result="BackgroundImageFix" />
+                  <feFlood floodOpacity="0" result="BackgroundImageFix" />
                   <feBlend
                     in="SourceGraphic"
                     in2="BackgroundImageFix"
@@ -568,10 +568,10 @@ export default function ThirdSection() {
                   height="12.26"
                   x="9.41"
                   y="14.217"
-                  color-interpolation-filters="sRGB"
+                  colorInterpolationFilters="sRGB"
                   filterUnits="userSpaceOnUse"
                 >
-                  <feFlood flood-opacity="0" result="BackgroundImageFix" />
+                  <feFlood floodOpacity="0" result="BackgroundImageFix" />
                   <feBlend
                     in="SourceGraphic"
                     in2="BackgroundImageFix"

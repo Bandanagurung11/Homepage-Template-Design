@@ -158,7 +158,7 @@ export default function SuscribeSection() {
                 >
                   <stop stopColor="#3771c8" />
                   <stop offset=".128" stopColor="#3771c8" />
-                  <stop offset="1" stopColor="#60f" stop-opacity="0" />
+                  <stop offset="1" stopColor="#60f" stopOpacity="0" />
                 </radialGradient>
               </defs>
             </g>
