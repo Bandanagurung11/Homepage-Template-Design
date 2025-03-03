@@ -1,0 +1,21 @@
+{
+    "projects": [
+      {
+        "name": "fenzora-homepage",
+        "rootDirectory": "Fenzora-homepage"
+      },
+      {
+        "name": "binox-homepage",
+        "rootDirectory": "BINOX-homepage"
+      },
+      {
+        "name": "loxcy-homepage",
+        "rootDirectory": "LOXCY-homepage"
+      },
+      {
+        "name": "loxcy-using-react",
+        "rootDirectory": "LOXCY-usingReact"
+      }
+    ]
+  }
+  

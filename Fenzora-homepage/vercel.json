@@ -1,0 +1,6 @@
+{
+    "name": "fenzora-homepage",
+    "buildCommand": "npm run build",
+    "outputDirectory": "out"
+  }
+  
