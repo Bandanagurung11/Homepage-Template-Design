@@ -1,6 +1,9 @@
 {
     "name": "fenzora-homepage",
     "buildCommand": "npm run build",
-    "outputDirectory": "out"
+    "outputDirectory": "out",
+    "rewrites": [
+      {"source": "/(.*)", "destination": "/"}
+  ]
   }
   
