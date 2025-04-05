@@ -1,3 +1,4 @@
+export const dynamic = "force-dynamic";
 import Faq from '@/components/Faq'
 import Footer from '@/components/Footer'
 import HelpSection from '@/components/HelpSection'
